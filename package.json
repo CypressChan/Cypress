@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.1",
+    "cheerio": "^1.0.0-rc.5",
+    "eml-format": "^0.6.1",
+    "excel-export": "^0.5.1",
+    "textract": "^2.5.0"
+  }
+}

@@ -1,0 +1,9 @@
+1、双击安装 nodejs，文件名为node-v14.15.3-x64.msi；
+
+2、把要转换的文件放到files文件夹下面，目前支持eml和docx文件的读取，doc文件需要转换（见下一步），其他文件仅仅读取文件名;
+
+3、双击打开 doc转docx.docx，打开快捷键Alt + F8，执行宏doctodocx，执行过程中窗口会闪烁；
+
+4、双击打开 forCypress.bat文件，抽取字段；
+
+5、成功后生成Cypress.xlsx文件。
